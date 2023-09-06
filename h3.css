@@ -1,0 +1,13 @@
+.advice-container{
+    display: flex;
+}
+.advice-container>div{
+flex: 1;
+padding-right: 30px;
+}
+.advice-container h4{
+    height: 30px;
+    max-height: 44px;
+    margin: 0;
+    overflow: hidden;
+}
